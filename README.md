@@ -1,3 +1,6 @@
+# DeveloperHub.io
+Documentation Tool
+
 ## What is DeveloperHub.io?
 [DeveloperHub.io](https://developerhub.io) is a managed service that allows you to create beautiful hosted documentation, hassle-free. Basically, you don't have to write one line of code and we'll manage everything for you. Just start writing the documentation!
 
